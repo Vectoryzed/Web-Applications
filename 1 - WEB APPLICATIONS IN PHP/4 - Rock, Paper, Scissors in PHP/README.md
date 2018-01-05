@@ -1,13 +1,5 @@
-Broken Rock Paper Scissors
---------------------------
+# Rock, Paper, Scissors in PHP: project overview
 
-Here is a URL to the broken version of this application:
-
-http://www.wa4e.com/code/rps/
-
-Here is a URL to a working version of this application:
-
-http://www.wa4e.com/solutions/rps/
-
+In this assignment we will create a two page web application to play rock, paper, scissors http://en.wikipedia.org/wiki/Rock-paper-scissors - We will only allow logged in users to play the game.
 
 
