@@ -22,5 +22,5 @@ Note that all the material into this repository is protected by Coursera Honor c
 
 <i>Plagiarism is when you copy words, ideas, or any other materials from another source without giving credit. Plagiarism is unacceptable in any academic environment, and is a serious violation of Coursera's Honor Code.</i>
 
-Please do not use any code from this repository if you are enrolled to this specialization on Coursera, as doing this would be considered and flagged as plagiarism. 
+Please, if you are enrolled to this specialization on Coursera, do not use any code from this repository for your projects assignments, as doing this would be considered and flagged as plagiarism. 
 Thanks for your understanding.
