@@ -1,6 +1,6 @@
 Projects from Web Applications Coursera specialization, by University of Michigan
 
-# Web-Applications specialization (by University of Michigan)
+# Web Applications specialization (by University of Michigan)
 
 This specialization is a basic introduction to building web applications, and is an excellent starting point for learners who already have a basic understanding of programming, HTML, and CSS. In Web Applications for Everybody, learners will be introduced to web and database applications in PHP, using SQL for database creation, as well as functionality in JavaScript, jQuery, and JSON.
 
