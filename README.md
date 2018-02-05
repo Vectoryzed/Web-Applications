@@ -1,4 +1,4 @@
-Projects from Web Applications Coursera specialization by University of Michigan.
+Projects from Web Applications specialization hosted by University of Michigan.
 
 # Web Applications specialization (by University of Michigan)
 
